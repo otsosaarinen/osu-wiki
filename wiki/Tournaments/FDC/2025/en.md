@@ -104,7 +104,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Final
 
-**[Download the mappack here! (SIZE)](https://drive.google.com/file/d/1b1bOrRfA6KdWRS1n5-K14Wkk8kQr2Z7n/view?usp=drive_link)**
+**[Download the mappack here! (206 Mb)](https://drive.google.com/file/d/1b1bOrRfA6KdWRS1n5-K14Wkk8kQr2Z7n/view?usp=drive_link)**
 
 - No Mod
   1. [MY FIRST STORY feat. chelly (EGOIST) - 1,000,000 TIMES [Over Again]]()
@@ -136,7 +136,7 @@ This competition has come to an end and resulted in the following podium:
 
   ### Final
 
-**[Download the mappack here! (SIZE)](https://drive.google.com/file/d/1dUFMIKkF7kScuEhEZoKi5vd3XjN_BjYo/view?usp=drive_link)**
+**[Download the mappack here! (166 Mb)](https://drive.google.com/file/d/1dUFMIKkF7kScuEhEZoKi5vd3XjN_BjYo/view?usp=drive_link)**
 
 - No Mod
   1. [[Kyoro] - Mochio- [Extreme]]()
@@ -168,7 +168,7 @@ This competition has come to an end and resulted in the following podium:
 
   ### Semifinal
 
-**[Download the mappack here! (SIZE)](https://drive.google.com/file/d/1fO3Ypq_yRMgj3hWq6qrT1XEJZdx6qG6W/view?usp=drive_link)**
+**[Download the mappack here! (154 Mb)](https://drive.google.com/file/d/1fO3Ypq_yRMgj3hWq6qrT1XEJZdx6qG6W/view?usp=drive_link)**
 
 - No Mod
   1. [Cranky - Bestrafung [Folter]]()
@@ -200,7 +200,7 @@ This competition has come to an end and resulted in the following podium:
 
   ### Quarterfinal
 
-**[Download the mappack here! (SIZE)](https://drive.google.com/file/d/1Yh8mBkHj8S3tmDwBv1xdl3CO0xTlYaXm/view?usp=drive_link)**
+**[Download the mappack here! (129 Mb)](https://drive.google.com/file/d/1Yh8mBkHj8S3tmDwBv1xdl3CO0xTlYaXm/view?usp=drive_link)**
 
 - No Mod
   1. [1.Kla$ & Czar - Tvoyu mat' [:urmom:]]()
@@ -232,7 +232,7 @@ This competition has come to an end and resulted in the following podium:
 
   ### Round of 16
 
-**[Download the mappack here! (SIZE)](https://drive.google.com/file/d/1l_TZ23o-Dv5fr-CyqCHIfIBOCYyQOeU-/view?usp=drive_link)**
+**[Download the mappack here! (122 Mb)](https://drive.google.com/file/d/1l_TZ23o-Dv5fr-CyqCHIfIBOCYyQOeU-/view?usp=drive_link)**
 
 - No Mod
   1. [Kito Akari - Desire Again [Lust]]()
@@ -259,7 +259,7 @@ This competition has come to an end and resulted in the following podium:
 
   ### Round of 32
 
-**[Download the mappack here! (SIZE)](https://drive.google.com/file/d/1BmSgVULdQjB1eXW3p3BLdfI76Rz23uqn/view?usp=drive_link)**
+**[Download the mappack here! (116 Mb)](https://drive.google.com/file/d/1BmSgVULdQjB1eXW3p3BLdfI76Rz23uqn/view?usp=drive_link)**
 
 - No Mod
   1. [Naoki Hashimoto - Big Blast Sonic [Overdrive]]()
@@ -285,7 +285,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Qualifiers
 
-**[Download the mappack here! (SIZE)](https://drive.google.com/file/d/1Yv0xM0hOJhcuVjWSDiAQP_JXOE2DvaS2/view?usp=drive_link)**
+**[Download the mappack here! (75 Mb)](https://drive.google.com/file/d/1Yv0xM0hOJhcuVjWSDiAQP_JXOE2DvaS2/view?usp=drive_link)**
 
 - No Mod
   1. [BeatmapArtist - BeatmapTitle (BeatmapCreator) [BeatmapDifficulty]](BeatmapLink)
