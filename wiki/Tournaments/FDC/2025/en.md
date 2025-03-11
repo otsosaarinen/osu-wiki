@@ -37,16 +37,16 @@ The **finnish duo cup 2025** (**_FDC2025_**) is a 2v2 double-elimination osu!sta
 
 The finnish duo cup 2025 is run by various community members.
 
-| Position           | Member(s)                                                                                                                                                                                                                                                                                                                                                                      |
-| :----------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Host               | [Aetherian](https://osu.ppy.sh/users/6263040)                                                                                                                                                                                                                                                                                                                                  |
-| Mappool selector   | [Aetherian](https://osu.ppy.sh/users/6263040), [nik](https://osu.ppy.sh/users/10077264)                                                                                                                                                                                                                                                                                        |
-| Mapper             | [nik](https://osu.ppy.sh/users/10077264)                                                                                                                                                                                                                                                                                                                                       |
-| Mappool playtester | [yimi](https://osu.ppy.sh/users/12047944), [scylla](https://osu.ppy.sh/users/9405745), [JoshuaGC](https://osu.ppy.sh/users/17636394), [Ezius](https://osu.ppy.sh/users/1861823), [nikulix](https://osu.ppy.sh/users/16502415), [KSN](https://osu.ppy.sh/users/5442251)                                                                                                         |
-| Streamer           | [Aetherian](https://osu.ppy.sh/users/6263040), [shdewz](https://osu.ppy.sh/users/10000899), [RobotSkin\_](https://osu.ppy.sh/users/13820038)                                                                                                                                                                                                                                   |
-| Commentator        | [Amasetic](https://osu.ppy.sh/users/11375251), [Nev-](https://osu.ppy.sh/users/11836334), [Roba](https://osu.ppy.sh/users/5210561), [house](https://osu.ppy.sh/users/15242810), [Marjus](https://osu.ppy.sh/users/10463344), [Mike Tyson](https://osu.ppy.sh/users/14764185), [BlankTap](https://osu.ppy.sh/users/10137131)                                                    |
-| Designer           | [Aetherian](https://osu.ppy.sh/users/6263040), [Lumeiii](https://osu.ppy.sh/users/24590750)                                                                                                                                                                                                                                                                                    |
-| Referee            | [Aetherian](https://osu.ppy.sh/users/6263040), [Isita](https://osu.ppy.sh/users/13973026), [AnjoK](https://osu.ppy.sh/users/9220667), [Laurakko](https://osu.ppy.sh/users/7253731), [Beuto](https://osu.ppy.sh/users/15115857), [RobotSkin\_](https://osu.ppy.sh/users/13820038), [TheHunter1](https://osu.ppy.sh/users/6496016), [nikulix](https://osu.ppy.sh/users/16502415) |
+| Position           | Member(s)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| :----------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Host               | ::{ flag=FI }:: [Aetherian](https://osu.ppy.sh/users/6263040)                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Mappool selector   | ::{ flag=FI }:: [Aetherian](https://osu.ppy.sh/users/6263040), ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264)                                                                                                                                                                                                                                                                                                                                                                                        |
+| Mapper             | ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264)                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Mappool playtester | ::{ flag=FI }:: [yimi](https://osu.ppy.sh/users/12047944), ::{ flag=SE }:: [scylla](https://osu.ppy.sh/users/9405745), ::{ flag=US }:: [JoshuaGC](https://osu.ppy.sh/users/17636394), ::{ flag=DE }:: [Ezius](https://osu.ppy.sh/users/1861823), ::{ flag=FI }:: [nikulix](https://osu.ppy.sh/users/16502415), ::{ flag=DE }:: [KSN](https://osu.ppy.sh/users/5442251)                                                                                                                                         |
+| Streamer           | ::{ flag=FI }:: [Aetherian](https://osu.ppy.sh/users/6263040), ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899), ::{ flag=RU }:: [RobotSkin\_](https://osu.ppy.sh/users/13820038)                                                                                                                                                                                                                                                                                                                   |
+| Commentator        | ::{ flag=FI }:: [Amasetic](https://osu.ppy.sh/users/11375251), ::{ flag=FI }:: [Nev-](https://osu.ppy.sh/users/11836334), ::{ flag=FI }:: [Roba](https://osu.ppy.sh/users/5210561), ::{ flag=FI }:: [house](https://osu.ppy.sh/users/15242810), ::{ flag=FI }:: [Marjus](https://osu.ppy.sh/users/10463344), ::{ flag=FI }:: [Mike Tyson](https://osu.ppy.sh/users/14764185), ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131)                                                                    |
+| Designer           | ::{ flag=FI }:: [Aetherian](https://osu.ppy.sh/users/6263040), ::{ flag=BG }:: [Lumeiii](https://osu.ppy.sh/users/24590750)                                                                                                                                                                                                                                                                                                                                                                                    |
+| Referee            | ::{ flag=FI }:: [Aetherian](https://osu.ppy.sh/users/6263040), ::{ flag=CL }:: [Isita](https://osu.ppy.sh/users/13973026), ::{ flag=FI }:: [AnjoK](https://osu.ppy.sh/users/9220667), ::{ flag=FI }:: [Laurakko](https://osu.ppy.sh/users/7253731), ::{ flag=DE }:: [Beuto](https://osu.ppy.sh/users/15115857), ::{ flag=RU }:: [RobotSkin\_](https://osu.ppy.sh/users/13820038), ::{ flag=DE }:: [TheHunter1](https://osu.ppy.sh/users/6496016), ::{ flag=FI }:: [nikulix](https://osu.ppy.sh/users/16502415) |
 
 ## Links
 
@@ -58,35 +58,35 @@ The finnish duo cup 2025 is run by various community members.
 
 ## Participants
 
-|        Team        | Members                                                                                             |
-| :----------------: | :-------------------------------------------------------------------------------------------------- |
-|      oddloop       | [Kalanluu](https://osu.ppy.sh/users/2035254), [MALIZEWSKI](https://osu.ppy.sh/users/12408961)       |
-|   carrot fields    | [Amasetic](https://osu.ppy.sh/users/11375251), [steisha](https://osu.ppy.sh/users/13951894)         |
-|    bunny party     | [Eevert](https://osu.ppy.sh/users/12080544), [Amamya Kokoro](https://osu.ppy.sh/users/2511839)      |
-|      terence       | [house](https://osu.ppy.sh/users/15242810), [NINERIK](https://osu.ppy.sh/users/10549880)            |
-|   skibidi vessa    | [kiir0chii](https://osu.ppy.sh/users/9322480), [AllyrD](https://osu.ppy.sh/users/9561644)           |
-|     Melon Boys     | [Isak-](https://osu.ppy.sh/users/8702650), [Sobu-](https://osu.ppy.sh/users/13872272)               |
-|    Gorillamode     | [Marjus](https://osu.ppy.sh/users/10463344), [zonelouise](https://osu.ppy.sh/users/1492995)         |
-|  mä rakastan sua   | [OhLivi](https://osu.ppy.sh/users/10762467), [3BDOOO](https://osu.ppy.sh/users/22461441)            |
-| might miss a match | [Tabletti](https://osu.ppy.sh/users/9523661), [origin\_](https://osu.ppy.sh/users/15095811)         |
-|  Karjalanpiirakka  | [savilju](https://osu.ppy.sh/users/8059468), [apisedo](https://osu.ppy.sh/users/11048151)           |
-| ballers will ball  | [shdewz](https://osu.ppy.sh/users/10000899), [LightsOut](https://osu.ppy.sh/users/8581210)          |
-|  Meow & Myouow :3  | [juujep](https://osu.ppy.sh/users/12031584), [HAUNTE](https://osu.ppy.sh/users/7333471)             |
-|       NATION       | [Nev-](https://osu.ppy.sh/users/11836334), [nemq](https://osu.ppy.sh/users/11644972)                |
-| Galaxy Destroyers  | [Mike Tyson](https://osu.ppy.sh/users/14764185), [qstronaut](https://osu.ppy.sh/users/10958852)     |
-|    Suklaapallit    | [Endura](https://osu.ppy.sh/users/7774197), [Juska](https://osu.ppy.sh/users/12931502)              |
-|     São Paulo      | [Kyulke](https://osu.ppy.sh/users/12620242), [Mayuri](https://osu.ppy.sh/users/18688473)            |
-|      NO CLUE!      | [mind blowing](https://osu.ppy.sh/users/22396092), [EthantrixV2](https://osu.ppy.sh/users/10634348) |
-|    Airline food    | [Roba](https://osu.ppy.sh/users/5210561), [D I O](https://osu.ppy.sh/users/3958619)                 |
-|   happy new year   | [-cyber](https://osu.ppy.sh/users/20132305), [5ixty](https://osu.ppy.sh/users/18321104)             |
-|        4444        | [tkilele](https://osu.ppy.sh/users/9114796), [227](https://osu.ppy.sh/users/3741162)                |
-|      bouquet       | [Aconite](https://osu.ppy.sh/users/15242660), [Shylily](https://osu.ppy.sh/users/20770163)          |
-|   Anttola honor    | [makkara](https://osu.ppy.sh/users/19563871), [Naapuri](https://osu.ppy.sh/users/11706246)          |
-|      drillaz       | [Wokki](https://osu.ppy.sh/users/15532703), [HopeRaven](https://osu.ppy.sh/users/8158905)           |
-|  Schizo rizzzlers  | [NoTablet](https://osu.ppy.sh/users/10967148), [beea66](https://osu.ppy.sh/users/10708428)          |
-|      No title      | [sph3re](https://osu.ppy.sh/users/21073465), [mouseANDtablet](https://osu.ppy.sh/users/22922042)    |
-|   Mandelbrot set   | [Jokupoika24](https://osu.ppy.sh/users/17782643), [System Sun](https://osu.ppy.sh/users/3163106)    |
-|      Lil bros      | [ImTK](https://osu.ppy.sh/users/11506206), [OG_PannuLappu](https://osu.ppy.sh/users/7295343)        |
+|        Team        | Members                                                                                                                             |
+| :----------------: | :---------------------------------------------------------------------------------------------------------------------------------- |
+|      oddloop       | ::{ flag=FI }:: [Kalanluu](https://osu.ppy.sh/users/2035254), ::{ flag=PL }:: [MALIZEWSKI](https://osu.ppy.sh/users/12408961)       |
+|   carrot fields    | ::{ flag=FI }:: [Amasetic](https://osu.ppy.sh/users/11375251), ::{ flag=RU }:: [steisha](https://osu.ppy.sh/users/13951894)         |
+|    bunny party     | ::{ flag=FI }:: [Eevert](https://osu.ppy.sh/users/12080544), ::{ flag=KR }:: [Amamya Kokoro](https://osu.ppy.sh/users/2511839)      |
+|      terence       | ::{ flag=FI }:: [house](https://osu.ppy.sh/users/15242810), ::{ flag=NO }:: [NINERIK](https://osu.ppy.sh/users/10549880)            |
+|   skibidi vessa    | ::{ flag=PL }:: [kiir0chii](https://osu.ppy.sh/users/9322480), ::{ flag=FI }:: [AllyrD](https://osu.ppy.sh/users/9561644)           |
+|     Melon Boys     | ::{ flag=FI }:: [Isak-](https://osu.ppy.sh/users/8702650), ::{ flag=DK }:: [Sobu-](https://osu.ppy.sh/users/13872272)               |
+|    Gorillamode     | ::{ flag=FI }:: [Marjus](https://osu.ppy.sh/users/10463344), ::{ flag=PH }:: [zonelouise](https://osu.ppy.sh/users/1492995)         |
+|  mä rakastan sua   | ::{ flag=FI }:: [OhLivi](https://osu.ppy.sh/users/10762467), ::{ flag=SA }:: [3BDOOO](https://osu.ppy.sh/users/22461441)            |
+| might miss a match | ::{ flag=FI }:: [Tabletti](https://osu.ppy.sh/users/9523661), ::{ flag=RO }:: [origin\_](https://osu.ppy.sh/users/15095811)         |
+|  Karjalanpiirakka  | ::{ flag=FI }:: [savilju](https://osu.ppy.sh/users/8059468), ::{ flag=FI }:: [apisedo](https://osu.ppy.sh/users/11048151)           |
+| ballers will ball  | ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899), ::{ flag=US }:: [LightsOut](https://osu.ppy.sh/users/8581210)          |
+|  Meow & Myouow :3  | ::{ flag=FI }:: [juujep](https://osu.ppy.sh/users/12031584), ::{ flag=GB }:: [HAUNTE](https://osu.ppy.sh/users/7333471)             |
+|       NATION       | ::{ flag=FI }:: [Nev-](https://osu.ppy.sh/users/11836334), ::{ flag=FI }:: [nemq](https://osu.ppy.sh/users/11644972)                |
+| Galaxy Destroyers  | ::{ flag=FI }:: [Mike Tyson](https://osu.ppy.sh/users/14764185), ::{ flag=SG }:: [qstronaut](https://osu.ppy.sh/users/10958852)     |
+|    Suklaapallit    | ::{ flag=RU }:: [Endura](https://osu.ppy.sh/users/7774197), ::{ flag=FI }:: [Juska](https://osu.ppy.sh/users/12931502)              |
+|     São Paulo      | ::{ flag=BR }:: [Kyulke](https://osu.ppy.sh/users/12620242), ::{ flag=FI }:: [Mayuri](https://osu.ppy.sh/users/18688473)            |
+|      NO CLUE!      | ::{ flag=FI }:: [mind blowing](https://osu.ppy.sh/users/22396092), ::{ flag=US }:: [EthantrixV2](https://osu.ppy.sh/users/10634348) |
+|    Airline food    | ::{ flag=FI }:: [Roba](https://osu.ppy.sh/users/5210561), ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619)                 |
+|   happy new year   | ::{ flag=FI }:: [-cyber](https://osu.ppy.sh/users/20132305), ::{ flag=AU }:: [5ixty](https://osu.ppy.sh/users/18321104)             |
+|        4444        | ::{ flag=FI }:: [tkilele](https://osu.ppy.sh/users/9114796), ::{ flag=PL }:: [227](https://osu.ppy.sh/users/3741162)                |
+|      bouquet       | ::{ flag=FI }:: [Aconite](https://osu.ppy.sh/users/15242660), ::{ flag=FI }:: [Shylily](https://osu.ppy.sh/users/20770163)          |
+|   Anttola honor    | ::{ flag=FI }:: [makkara](https://osu.ppy.sh/users/19563871), ::{ flag=FI }:: [Naapuri](https://osu.ppy.sh/users/11706246)          |
+|      drillaz       | ::{ flag=FI }:: [Wokki](https://osu.ppy.sh/users/15532703), ::{ flag=PL }:: [HopeRaven](https://osu.ppy.sh/users/8158905)           |
+|  Schizo rizzzlers  | ::{ flag=FI }:: [NoTablet](https://osu.ppy.sh/users/10967148), ::{ flag=FI }:: [beea66](https://osu.ppy.sh/users/10708428)          |
+|      No title      | ::{ flag=FI }:: [sph3re](https://osu.ppy.sh/users/21073465), ::{ flag=PL }:: [mouseANDtablet](https://osu.ppy.sh/users/22922042)    |
+|   Mandelbrot set   | ::{ flag=FI }:: [Jokupoika24](https://osu.ppy.sh/users/17782643), ::{ flag=FI }:: [System Sun](https://osu.ppy.sh/users/3163106)    |
+|      Lil bros      | ::{ flag=FI }:: [ImTK](https://osu.ppy.sh/users/11506206), ::{ flag=FI }:: [OG_PannuLappu](https://osu.ppy.sh/users/7295343)        |
 
 ## Podium
 
