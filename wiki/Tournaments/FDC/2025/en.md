@@ -288,19 +288,19 @@ This competition has come to an end and resulted in the following podium:
 **[Download the mappack here! (75 Mb)](https://drive.google.com/file/d/1Yv0xM0hOJhcuVjWSDiAQP_JXOE2DvaS2/view?usp=drive_link)**
 
 - No Mod
-  1. [BeatmapArtist - BeatmapTitle (BeatmapCreator) [BeatmapDifficulty]](BeatmapLink)
-  2. [Alustrium - Hunted [Relentless Suffering]]()
-  3. [ZAQ - Minor Piece [Amateurre's Manipulation]]()
-  4. [BEMANI Sound Team "Expander" - Neuron [Feiri x Nanachi's Collab Expert]]()
+  1. [Akatsuki Records - Trance Dance Anarchy (eiri-) [Don't Look Back]](https://osu.ppy.sh/beatmapsets/1124084#osu/2348869)
+  2. [Alustrium - Hunted (Dcs) [Relentless Suffering]](https://osu.ppy.sh/beatmapsets/1792962#osu/3689911)
+  3. [ZAQ - Minor Piece (Petal) [Amateurre's Manipulation]](https://osu.ppy.sh/beatmapsets/2147857#osu/4524265)
+  4. [BEMANI Sound Team "Expander" - Neuron (Feiri) [Feiri x Nanachi's Collab Expert]](https://osu.ppy.sh/beatmapsets/1530616#osu/3287591)
 - Hidden
-  1. [Getty vs. DJ DiA - Grayedout -Antifront- (Extended Mix) [-kevincela-'s Xtra]]()
-  2. [Sano Denji - Taiko Time [Expert]]()
+  1. [Getty vs. DJ DiA - Grayedout -Antifront- (Extended Mix) (Okoayu) [-kevincela-'s Xtra]](https://osu.ppy.sh/beatmapsets/2194883#osu/4643979)
+  2. [Sano Denji - Taiko Time (Flask) [Expert]](https://osu.ppy.sh/beatmapsets/1536761#osu/3142119)
 - Hard Rock
-  1. [Camellia - Fastest Crash [RLC's Paroxysm]]()
-  2. [furulan - dona [Burger]]()
+  1. [Camellia - Fastest Crash (sukiNathan) [RLC's Paroxysm]](https://osu.ppy.sh/beatmapsets/331025#osu/733432)
+  2. [furulan - dona (P_O) [Burger]](https://osu.ppy.sh/beatmapsets/1866625#osu/3839691)
 - Double Time
-  1. [Pendulum - Granite (Original Mix) [Sane]]()
-  2. [-45 - System Sun [Insane]]()
+  1. [Pendulum - Granite (Original Mix) (Zetera) [Sane]](https://osu.ppy.sh/beatmapsets/1847112#osu/4026577)
+  2. [-45 - System Sun (Lasse) [Insane]](https://osu.ppy.sh/beatmapsets/1616029#osu/3299371)
 
 ## Match results
 
