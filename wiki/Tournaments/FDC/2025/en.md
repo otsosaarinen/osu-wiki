@@ -1,105 +1,77 @@
 ---
-tags: # yamllint disable rule:braces rule:osu-wiki-nested-structure
-  - { SHORT_TITLE }
-  - { SERIES_SHORT_TITLE }
+tags:
+  - FDC2025
+  - FDC
 ---
 
-# {TITLE}
+# finnish duo cup 2025
 
-![{SHORT_TITLE} logo](img/logo.png) <!-- replace "logo" with "banner" if that suits the image better -->
+![finnish duo cup 2025 logo](img/banner.png)
 
-The **{TITLE}** (**_{SHORT_TITLE}_**) is a <!-- enter applicable tournament traits, example: {N}v{N}, double-elimination, country-based --> {MODE} tournament hosted by {ORGANISERS} <!-- list the organisers here with their flags -->. It is the {ITERATION_ORDINAL} instalment of the {SERIES_TITLE}.
+The **finnish duo cup 2025** (**_FDC2025_**) is a 2v2 double-elimination osu!standard tournament hosted by ::{ flag=FI }:: [Aetherian](https://osu.ppy.sh/users/6263040). The tournament requires at least one of the players in each team to be from ::{ flag=FI }:: Finland or ::{ flag=AX }:: Åland. It is the third instalment of the finnish duo cup.
 
 ## Tournament schedule
 
-|              Event | Timestamp                |
-| -----------------: | :----------------------- |
-| Registration phase | 2018-01-01/2018-01-28    |
-|      Live drawings | 2018-01-29 ({DRAW_TIME}) |
-|        Group stage |                          |
-|        Round of 16 |                          |
-|      Quarterfinals |                          |
-|         Semifinals |                          |
-|      Finals week 1 |                          |
-|      Finals week 2 |                          |
-
-<!-- Use the YYYY-MM-DD format for dates e.g. 2018-01-01
-Use (HH:MM UTC+N) format for {DRAW_TIME} e.g. (12:00 UTC+07)
- -->
+|              Event | Timestamp                         |
+| -----------------: | :-------------------------------- |
+| Registration phase | 2024-12-12/2024-12-31 (18:00 UTC) |
+|         Qualifiers | 2025-01-11/2025-01-12             |
+|        Round of 32 | 2025-01-18/2025-01-19             |
+|        Round of 16 | 2025-01-25/2025-01-26             |
+|      Quarterfinals | 2025-02-01/2025-02-02             |
+|         Semifinals | 2025-02-08/2025-02-09             |
+|             Finals | 2025-02-15/2025-02-16             |
+|       Grand Finals | 2025-02-22/2025-02-23             |
 
 ## Prizes
 
-|                          Placing                           | Prize(s) |
-| :--------------------------------------------------------: | :------- |
-|   ![Gold crown](/wiki/shared/crown-gold.png "1st place")   |          |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") |          |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") |          |
-|                        _4th place_                         |          |
+|                          Placing                           | Prize(s)                      |
+| :--------------------------------------------------------: | :---------------------------- |
+|   ![Gold crown](/wiki/shared/crown-gold.png "1st place")   | Profile badge, profile banner |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Profile banner                |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Profile banner                |
 
-![](img/badge.jpg "{SHORT_TITLE} winner badge") <!-- remove if not available -->
+![](img/badge.png "{SHORT_TITLE} winner badge")
 
 ## Organisation
 
-The {TITLE} is run by various community members.
+The finnish duo cup 2025 is run by various community members.
 
-| Position         | Member(s) |
-| :--------------- | :-------- |
-| Manager          |           |
-| Mappool selector |           |
-| Streamer         |           |
-| Commentator      |           |
-| Designer         |           |
-| Referee          |           |
-| Statistician     |           |
-
-<!-- | Example | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2), ::{ flag=AU }:: [BanchoBot](https://osu.ppy.sh/users/3) | -->
+| Position           | Member(s) |
+| :----------------- | :-------- |
+| Host               |           |
+| Mappool selector   |           |
+| Mapper             |           |
+| Mappool playtester |           |
+| Streamer           |           |
+| Commentator        |           |
+| Designer           |           |
+| Referee            |           |
 
 ## Links
 
-- [Discussion thread]({THREAD_LINK})
-- [Livestream]({LIVESTREAM_LINK})
-- **[Statistics sheet]({SHEET_LINK})**
+- **[Information spreadsheet](https://docs.google.com/spreadsheets/d/1cxQhtzad4zdV6etgEOMr5YopK6ZYdEt7WS8to_A40gY/edit?usp=sharing)**
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/2014182?n=1)
+- [Livestream]({https://www.twitch.tv/aetherian_tournaments)
+- [Challonge bracket](https://challonge.com/fdc2025)
+- [Discord server](https://discord.gg/SagCfnzEvM)
 
 ## Participants
 
-<!-- for team/country-based tournaments -->
-
-|                 |    Country    | Members                                                                      |
-| :-------------: | :-----------: | :--------------------------------------------------------------------------- |
-| ::{ flag=AU }:: | **Australia** | [peppy](https://osu.ppy.sh/users/2), [BanchoBot](https://osu.ppy.sh/users/3) |
-|                 |               |                                                                              |
-
-<!-- for 1v1 tournaments -->
-
-| Seed   | Members |
-| :----- | :------ |
-| Top    |         |
-| Middle |         |
-
-<!-- remove the following section if seeding was displayed above -->
-
-## Groups
-
-| Group A  | Group B | Group C | Group ... |
-| :------- | :------ | :------ | :-------- |
-| Country1 | Example | Example | Example   |
-| Country2 | Example | Example | Example   |
-| Country3 | Example | Example | Example   |
-| Country4 | Example | Example | Example   |
-
-![](img/bracket.png "{SHORT_TITLE} bracket") <!-- remove if not available -->
-
-<!-- add the following section, once your tournament is concluded -->
+|     | Team | Members |
+| :-: | :--: | :------ |
+|     |      |         |
+|     |      |
 
 ## Podium
 
 This competition has come to an end and resulted in the following podium:
 
-|                          Placing                           | Player |
-| :--------------------------------------------------------: | :----- |
-|   ![Gold crown](/wiki/shared/crown-gold.png "1st place")   |        |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") |        |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") |        |
+|                          Placing                           | Team                                                                            |
+| :--------------------------------------------------------: | :------------------------------------------------------------------------------ |
+|   ![Gold crown](/wiki/shared/crown-gold.png "1st place")   | **oddloop** (::{ flag=FI }:: [Kalanluu](), ::{ flag=PL }:: [MALIZSEWSKI]())     |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **bunny party** (::{ flag=FI }:: [Eevert](), ::{ flag=KR }:: [Amamya Kokoro]()) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **terence** (::{ flag=FI }:: [house](), ::{ flag=NO }:: [NINERIK]())            |
 
 ![](img/podium.png "{SHORT_TITLE} podium") <!-- remove image if not available -->
 
