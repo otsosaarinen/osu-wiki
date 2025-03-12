@@ -480,15 +480,15 @@ Thursday, 16 January 2025
 - There will be a new mappool every week.
 - Mappools follow the following format:
 
-| Stage         | Maps                               |
-| :------------ | :--------------------------------- |
+| Stage | Maps |
+| :-- | :-- |
 | Qualifiers | 4 NM, 2 HD, 2 HR, 2 DT |
-| Round of 32   | 4 NM, 2 HD, 2 HR, 3 DT, 3 FM, 1 TB |
-| Round of 16   | 4 NM, 2 HD, 2 HR, 3 DT, 3 FM, 1 TB |
+| Round of 32 | 4 NM, 2 HD, 2 HR, 3 DT, 3 FM, 1 TB |
+| Round of 16 | 4 NM, 2 HD, 2 HR, 3 DT, 3 FM, 1 TB |
 | Quarterfinals | 5 NM, 3 HD, 3 HR, 4 DT, 4 FM, 1 TB |
-| Semifinals    | 5 NM, 3 HD, 3 HR, 4 DT, 4 FM, 1 TB |
-| Finals        | 5 NM, 3 HD, 3 HR, 4 DT, 4 FM, 1 TB |
-| Grand Finals  | 5 NM, 3 HD, 3 HR, 4 DT, 4 FM, 1 TB |
+| Semifinals | 5 NM, 3 HD, 3 HR, 4 DT, 4 FM, 1 TB |
+| Finals | 5 NM, 3 HD, 3 HR, 4 DT, 4 FM, 1 TB |
+| Grand Finals | 5 NM, 3 HD, 3 HR, 4 DT, 4 FM, 1 TB |
 
 ### Qualifiers
 
