@@ -58,7 +58,7 @@ The Finnish Duo Cup 2025 was run by various community members.
 
 ## Participants
 
-|        Team        | Members                                                                                                                                 |
+| Team | Members |
 | :----------------: | :-------------------------------------------------------------------------------------------------------------------------------------- |
 |      oddloop       | ::{ flag=FI }:: **[Kalanluu](https://osu.ppy.sh/users/2035254)**, ::{ flag=PL }:: [MALIZEWSKI](https://osu.ppy.sh/users/12408961)       |
 |   carrot fields    | ::{ flag=FI }:: **[Amasetic](https://osu.ppy.sh/users/11375251)**, ::{ flag=RU }:: [steisha](https://osu.ppy.sh/users/13951894)         |
