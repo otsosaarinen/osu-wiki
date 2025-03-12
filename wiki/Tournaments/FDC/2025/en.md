@@ -104,7 +104,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-**[Download the mappack here! (206 Mb)](https://drive.google.com/file/d/1b1bOrRfA6KdWRS1n5-K14Wkk8kQr2Z7n/view?usp=drive_link)**
+**[Download the mappack here! (206 MB)](https://drive.google.com/file/d/1b1bOrRfA6KdWRS1n5-K14Wkk8kQr2Z7n/view?usp=drive_link)**
 
 - No Mod
   1. [MY FIRST STORY feat. chelly (EGOIST) - 1,000,000 TIMES (Mistelse) [Over Again]](https://osu.ppy.sh/beatmapsets/1326561#osu/2748274)
