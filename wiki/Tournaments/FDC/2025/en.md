@@ -52,7 +52,7 @@ The finnish duo cup 2025 is run by various community members.
 
 - **[Information spreadsheet](https://docs.google.com/spreadsheets/d/1cxQhtzad4zdV6etgEOMr5YopK6ZYdEt7WS8to_A40gY/edit?usp=sharing)**
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/2014182?n=1)
-- [Livestream]({https://www.twitch.tv/aetherian_tournaments)
+- [Livestream](https://www.twitch.tv/aetherian_tournaments)
 - [Challonge bracket](https://challonge.com/fdc2025)
 - [Discord server](https://discord.gg/SagCfnzEvM)
 
