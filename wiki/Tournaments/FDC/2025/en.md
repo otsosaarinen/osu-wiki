@@ -323,7 +323,7 @@ Saturday, 22 February 2025
 Sunday, 16 February 2025
 
 | Team 1 |  |  | Team 2 | Match link |
-| ------------: | :---: | :---: | :---------- | :--------------------------------------------------- |
+| --: | :-: | :-: | :-- | :-- |
 | carrot fields |   2   | **7** | **terence** | [#1](https://osu.ppy.sh/community/matches/117201075) |
 |   **oddloop** | **7** |   0   | bunny party | [#1](https://osu.ppy.sh/community/matches/117201047) |
 
