@@ -1,4 +1,4 @@
-# finnish duo cup
+# Finnish Duo Cup
 
 Index page for all of the finnish duo cup series.
 
