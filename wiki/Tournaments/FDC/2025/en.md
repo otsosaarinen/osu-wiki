@@ -58,35 +58,35 @@ The finnish duo cup 2025 is run by various community members.
 
 ## Participants
 
-|        Team        | Members                                                                                                                             |
-| :----------------: | :---------------------------------------------------------------------------------------------------------------------------------- |
-|      oddloop       | ::{ flag=FI }:: [Kalanluu](https://osu.ppy.sh/users/2035254), ::{ flag=PL }:: [MALIZEWSKI](https://osu.ppy.sh/users/12408961)       |
-|   carrot fields    | ::{ flag=FI }:: [Amasetic](https://osu.ppy.sh/users/11375251), ::{ flag=RU }:: [steisha](https://osu.ppy.sh/users/13951894)         |
-|    bunny party     | ::{ flag=FI }:: [Eevert](https://osu.ppy.sh/users/12080544), ::{ flag=KR }:: [Amamya Kokoro](https://osu.ppy.sh/users/2511839)      |
-|      terence       | ::{ flag=FI }:: [house](https://osu.ppy.sh/users/15242810), ::{ flag=NO }:: [NINERIK](https://osu.ppy.sh/users/10549880)            |
-|   skibidi vessa    | ::{ flag=PL }:: [kiir0chii](https://osu.ppy.sh/users/9322480), ::{ flag=FI }:: [AllyrD](https://osu.ppy.sh/users/9561644)           |
-|     Melon Boys     | ::{ flag=FI }:: [Isak-](https://osu.ppy.sh/users/8702650), ::{ flag=DK }:: [Sobu-](https://osu.ppy.sh/users/13872272)               |
-|    Gorillamode     | ::{ flag=FI }:: [Marjus](https://osu.ppy.sh/users/10463344), ::{ flag=PH }:: [zonelouise](https://osu.ppy.sh/users/1492995)         |
-|  mä rakastan sua   | ::{ flag=FI }:: [OhLivi](https://osu.ppy.sh/users/10762467), ::{ flag=SA }:: [3BDOOO](https://osu.ppy.sh/users/22461441)            |
-| might miss a match | ::{ flag=FI }:: [Tabletti](https://osu.ppy.sh/users/9523661), ::{ flag=RO }:: [origin\_](https://osu.ppy.sh/users/15095811)         |
-|  Karjalanpiirakka  | ::{ flag=FI }:: [savilju](https://osu.ppy.sh/users/8059468), ::{ flag=FI }:: [apisedo](https://osu.ppy.sh/users/11048151)           |
-| ballers will ball  | ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899), ::{ flag=US }:: [LightsOut](https://osu.ppy.sh/users/8581210)          |
-|  Meow & Myouow :3  | ::{ flag=FI }:: [juujep](https://osu.ppy.sh/users/12031584), ::{ flag=GB }:: [HAUNTE](https://osu.ppy.sh/users/7333471)             |
-|       NATION       | ::{ flag=FI }:: [Nev-](https://osu.ppy.sh/users/11836334), ::{ flag=FI }:: [nemq](https://osu.ppy.sh/users/11644972)                |
-| Galaxy Destroyers  | ::{ flag=FI }:: [Mike Tyson](https://osu.ppy.sh/users/14764185), ::{ flag=SG }:: [qstronaut](https://osu.ppy.sh/users/10958852)     |
-|    Suklaapallit    | ::{ flag=RU }:: [Endura](https://osu.ppy.sh/users/7774197), ::{ flag=FI }:: [Juska](https://osu.ppy.sh/users/12931502)              |
-|     São Paulo      | ::{ flag=BR }:: [Kyulke](https://osu.ppy.sh/users/12620242), ::{ flag=FI }:: [Mayuri](https://osu.ppy.sh/users/18688473)            |
-|      NO CLUE!      | ::{ flag=FI }:: [mind blowing](https://osu.ppy.sh/users/22396092), ::{ flag=US }:: [EthantrixV2](https://osu.ppy.sh/users/10634348) |
-|    Airline food    | ::{ flag=FI }:: [Roba](https://osu.ppy.sh/users/5210561), ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619)                 |
-|   happy new year   | ::{ flag=FI }:: [-cyber](https://osu.ppy.sh/users/20132305), ::{ flag=AU }:: [5ixty](https://osu.ppy.sh/users/18321104)             |
-|        4444        | ::{ flag=FI }:: [tkilele](https://osu.ppy.sh/users/9114796), ::{ flag=PL }:: [227](https://osu.ppy.sh/users/3741162)                |
-|      bouquet       | ::{ flag=FI }:: [Aconite](https://osu.ppy.sh/users/15242660), ::{ flag=FI }:: [Shylily](https://osu.ppy.sh/users/20770163)          |
-|   Anttola honor    | ::{ flag=FI }:: [makkara](https://osu.ppy.sh/users/19563871), ::{ flag=FI }:: [Naapuri](https://osu.ppy.sh/users/11706246)          |
-|      drillaz       | ::{ flag=FI }:: [Wokki](https://osu.ppy.sh/users/15532703), ::{ flag=PL }:: [HopeRaven](https://osu.ppy.sh/users/8158905)           |
-|  Schizo rizzzlers  | ::{ flag=FI }:: [NoTablet](https://osu.ppy.sh/users/10967148), ::{ flag=FI }:: [beea66](https://osu.ppy.sh/users/10708428)          |
-|      No title      | ::{ flag=FI }:: [sph3re](https://osu.ppy.sh/users/21073465), ::{ flag=PL }:: [mouseANDtablet](https://osu.ppy.sh/users/22922042)    |
-|   Mandelbrot set   | ::{ flag=FI }:: [Jokupoika24](https://osu.ppy.sh/users/17782643), ::{ flag=FI }:: [System Sun](https://osu.ppy.sh/users/3163106)    |
-|      Lil bros      | ::{ flag=FI }:: [ImTK](https://osu.ppy.sh/users/11506206), ::{ flag=FI }:: [OG_PannuLappu](https://osu.ppy.sh/users/7295343)        |
+|        Team        | Members                                                                                                                                 |
+| :----------------: | :-------------------------------------------------------------------------------------------------------------------------------------- |
+|      oddloop       | ::{ flag=FI }:: **[Kalanluu](https://osu.ppy.sh/users/2035254)**, ::{ flag=PL }:: [MALIZEWSKI](https://osu.ppy.sh/users/12408961)       |
+|   carrot fields    | ::{ flag=FI }:: **[Amasetic](https://osu.ppy.sh/users/11375251)**, ::{ flag=RU }:: [steisha](https://osu.ppy.sh/users/13951894)         |
+|    bunny party     | ::{ flag=FI }:: **[Eevert](https://osu.ppy.sh/users/12080544)**, ::{ flag=KR }:: [Amamya Kokoro](https://osu.ppy.sh/users/2511839)      |
+|      terence       | ::{ flag=FI }:: **[house](https://osu.ppy.sh/users/15242810)**, ::{ flag=NO }:: [NINERIK](https://osu.ppy.sh/users/10549880)            |
+|   skibidi vessa    | ::{ flag=PL }:: **[kiir0chii](https://osu.ppy.sh/users/9322480)**, ::{ flag=FI }:: [AllyrD](https://osu.ppy.sh/users/9561644)           |
+|     Melon Boys     | ::{ flag=FI }:: **[Isak-](https://osu.ppy.sh/users/8702650)**, ::{ flag=DK }:: [Sobu-](https://osu.ppy.sh/users/13872272)               |
+|    Gorillamode     | ::{ flag=FI }:: **[Marjus](https://osu.ppy.sh/users/10463344)**, ::{ flag=PH }:: [zonelouise](https://osu.ppy.sh/users/1492995)         |
+|  mä rakastan sua   | ::{ flag=FI }:: **[OhLivi](https://osu.ppy.sh/users/10762467)**, ::{ flag=SA }:: [3BDOOO](https://osu.ppy.sh/users/22461441)            |
+| might miss a match | ::{ flag=FI }:: **[Tabletti](https://osu.ppy.sh/users/9523661)**, ::{ flag=RO }:: [origin\_](https://osu.ppy.sh/users/15095811)         |
+|  Karjalanpiirakka  | ::{ flag=FI }:: **[savilju](https://osu.ppy.sh/users/8059468)**, ::{ flag=FI }:: [apisedo](https://osu.ppy.sh/users/11048151)           |
+| ballers will ball  | ::{ flag=FI }:: **[shdewz](https://osu.ppy.sh/users/10000899)**, ::{ flag=US }:: [LightsOut](https://osu.ppy.sh/users/8581210)          |
+|  Meow & Myouow :3  | ::{ flag=FI }:: **[juujep](https://osu.ppy.sh/users/12031584)**, ::{ flag=GB }:: [HAUNTE](https://osu.ppy.sh/users/7333471)             |
+|       NATION       | ::{ flag=FI }:: **[Nev-](https://osu.ppy.sh/users/11836334)**, ::{ flag=FI }:: [nemq](https://osu.ppy.sh/users/11644972)                |
+| Galaxy Destroyers  | ::{ flag=FI }:: **[Mike Tyson](https://osu.ppy.sh/users/14764185)**, ::{ flag=SG }:: [qstronaut](https://osu.ppy.sh/users/10958852)     |
+|    Suklaapallit    | ::{ flag=RU }:: **[Endura](https://osu.ppy.sh/users/7774197)**, ::{ flag=FI }:: [Juska](https://osu.ppy.sh/users/12931502)              |
+|     São Paulo      | ::{ flag=BR }:: **[Kyulke](https://osu.ppy.sh/users/12620242)**, ::{ flag=FI }:: [Mayuri](https://osu.ppy.sh/users/18688473)            |
+|      NO CLUE!      | ::{ flag=FI }:: **[mind blowing](https://osu.ppy.sh/users/22396092)**, ::{ flag=US }:: [EthantrixV2](https://osu.ppy.sh/users/10634348) |
+|    Airline food    | ::{ flag=FI }:: **[Roba](https://osu.ppy.sh/users/5210561)**, ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619)                 |
+|   happy new year   | ::{ flag=FI }:: **[-cyber](https://osu.ppy.sh/users/20132305)**, ::{ flag=AU }:: [5ixty](https://osu.ppy.sh/users/18321104)             |
+|        4444        | ::{ flag=FI }:: **[tkilele](https://osu.ppy.sh/users/9114796)**, ::{ flag=PL }:: [227](https://osu.ppy.sh/users/3741162)                |
+|      bouquet       | ::{ flag=FI }:: **[Aconite](https://osu.ppy.sh/users/15242660)**, ::{ flag=FI }:: [Shylily](https://osu.ppy.sh/users/20770163)          |
+|   Anttola honor    | ::{ flag=FI }:: **[makkara](https://osu.ppy.sh/users/19563871)**, ::{ flag=FI }:: [Naapuri](https://osu.ppy.sh/users/11706246)          |
+|      drillaz       | ::{ flag=FI }:: **[Wokki](https://osu.ppy.sh/users/15532703)**, ::{ flag=PL }:: [HopeRaven](https://osu.ppy.sh/users/8158905)           |
+|  Schizo rizzzlers  | ::{ flag=FI }:: **[NoTablet](https://osu.ppy.sh/users/10967148)**, ::{ flag=FI }:: [beea66](https://osu.ppy.sh/users/10708428)          |
+|      No title      | ::{ flag=FI }:: **[sph3re](https://osu.ppy.sh/users/21073465)**, ::{ flag=PL }:: [mouseANDtablet](https://osu.ppy.sh/users/22922042)    |
+|   Mandelbrot set   | ::{ flag=FI }:: **[Jokupoika24](https://osu.ppy.sh/users/17782643)**, ::{ flag=FI }:: [System Sun](https://osu.ppy.sh/users/3163106)    |
+|      Lil bros      | ::{ flag=FI }:: **[ImTK](https://osu.ppy.sh/users/11506206)**, ::{ flag=FI }:: [OG_PannuLappu](https://osu.ppy.sh/users/7295343)        |
 
 ## Podium
 
@@ -304,17 +304,43 @@ This competition has come to an end and resulted in the following podium:
 
 ## Match results
 
-### Stage
+### Grand Finals
 
-Day, date: <!-- e.g. Saturday, 17 June 2018: -->
+### Finals
 
-<!-- For solo tournaments, replace table header with: | Player 1 |  |  | Player 2 | Match link | -->
+### Semifinals
 
-|                       Team 1 |                                                                                 |       | Team 2                       | Match link       |
-| ---------------------------: | :-----------------------------------------------------------------------------: | :---: | :--------------------------- | :--------------- |
-| **WINNER** ::{ flag=CODE }:: |                                    **SCORE**                                    | SCORE | ::{ flag=CODE }:: LOSER      | [#1](MatchLink)  |
-|      LOSER ::{ flag=CODE }:: | -1 <!-- It's convention to write "-1" for forfeits, but this isn't required --> | **0** | ::{ flag=CODE }:: **WINNER** | _win by default_ |
-|     TEAM_A ::{ flag=CODE }:: |                                        0                                        |   0   | ::{ flag=CODE }:: TEAM_B     | _nullified_      |
+### Quarterfinals
+
+### Round of 16
+
+### Round of 32
+
+Day, date: Sunday, 19 January 2025
+
+|                Team 1 |       |       | Team 2         | Match link                                           |
+| --------------------: | :---: | :---: | :------------- | :--------------------------------------------------- |
+| **Galaxy Destroyers** | **5** |   1   | happy new year | [#1](https://osu.ppy.sh/community/matches/116869405) |
+|       **Gorillamode** | **5** |   3   | Mandelbrot set | [#1](https://osu.ppy.sh/community/matches/116870277) |
+|        **Melon boys** | **5** |   0   | Lil bros       | [#1](https://osu.ppy.sh/community/matches/116871232) |
+|            **NATION** | **5** |   2   | 4444           | [#1](https://osu.ppy.sh/community/matches/116871992) |
+|  **Meow & Myouow :3** | **0** |  -1   | bouquet        | _win by default_                                     |
+|             São Paulo |   2   | **5** | **NO CLUE!**   | [#1](https://osu.ppy.sh/community/matches/116873391) |
+
+Day, date: Saturday, 18 January 2025
+
+|                 Team 1 |       |     | Team 2           | Match link                                           |
+| ---------------------: | :---: | :-: | :--------------- | :--------------------------------------------------- |
+| **might miss a match** | **5** |  0  | Schizo rizzzlers | [#1](https://osu.ppy.sh/community/matches/116856976) |
+|   **Karjalanpiirakka** | \*\*5 |  0  | drillaz          | [#1](https://osu.ppy.sh/community/matches/116857752) |
+|       **Suklaapallit** | **5** |  1  | Airline food     | [#1](https://osu.ppy.sh/community/matches/116859311) |
+|  **ballers will ball** | **5** |  0  | Anttola honor    | [#1](https://osu.ppy.sh/community/matches/116862570) |
+
+Day, date: Thursday, 16 January 2025
+
+|              Team 1 |       |     | Team 2   | Match link                                           |
+| ------------------: | :---: | :-: | :------- | :--------------------------------------------------- |
+| **mä rakastan sua** | **1** | -1  | No title | [#1](https://osu.ppy.sh/community/matches/116834912) |
 
 ## Ruleset
 
