@@ -18,7 +18,7 @@ The **Finnish Duo Cup 2025** (**_FDC2025_**) was a 2v2 double-elimination osu!st
 | Qualifiers | 2025-01-11/2025-01-12 |
 | Round of 32 | 2025-01-18/2025-01-19 |
 | Round of 16 | 2025-01-25/2025-01-26 |
-|      Quarterfinals | 2025-02-01/2025-02-02             |
+| Quarterfinals | 2025-02-01/2025-02-02 |
 | Semifinals | 2025-02-08/2025-02-09 |
 |             Finals | 2025-02-15/2025-02-16             |
 |       Grand Finals | 2025-02-22/2025-02-23             |
