@@ -349,7 +349,7 @@ Saturday, 8 February 2025
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | mä rakastan sua | 1 | **6** | **carrot fields** | [#1](https://osu.ppy.sh/community/matches/117101452) |
-|   **Melon Boys** | **6** |   2   | NATION                | [#1](https://osu.ppy.sh/community/matches/117103467) |
+| **Melon Boys** | **6** | 2 | NATION | [#1](https://osu.ppy.sh/community/matches/117103467) |
 | Karjalanpiirakka |   1   | **6** | **NO CLUE!**          | [#1](https://osu.ppy.sh/community/matches/117104340) |
 |    skibidi vessa |  -1   | **0** | **ballers will ball** | _win by default_                                     |
 
