@@ -318,15 +318,49 @@ Day, date: <!-- e.g. Saturday, 17 June 2018: -->
 
 ## Ruleset
 
-<!-- organise the ruleset of your tournament here
-
-example header structure:
-
 ### General
-### Registration
-### Stages
-### Scheduling
+
+- This tournament is a 2v2 double-elimination osu! tournament.
+- Each team consists of 2 players.
+- At least 1 player from each team has to be from ::{ flag=FI }:: Finland or ::{ flag=AX }:: Åland.
+- Each team's total pp sum is capped at is 30,000pp, with maximum of 17,500pp per player.
+- Tournament uses custom `bws pp` formula for calculating accurate pp value for each player: `bws pp = pp ^ (1.001 ^ (badge_count ^2))`.
+- Each player can only contribute 17,500pp towards their team's pp sum meaning that if player has more than 17,500pp, only 17,500pp is counted towards the sum.
+- All matches will use Score V2 and NF will be enforced on every map.
+- All players have to treat staff members and all other players with a high level of respect. Any kind of mistreatment may result in being banned from the tournament.
+- This is an open rank tournament.
+- Staff members are not allowed to participate in the tournament.
+- Every player is required to join the tournament Discord server.
+- All times will be in UTC.
+
 ### Mappools
+
+- There will be a new mappool every week.
+- Mappools follow the following format:
+
+| Stage         | Maps                               |
+| :------------ | :--------------------------------- |
+| Qualifiers    | 4 NM, 2 HD, 2 HR, 2 DT             |
+| Round of 32   | 4 NM, 2 HD, 2 HR, 3 DT, 3 FM, 1 TB |
+| Round of 16   | 4 NM, 2 HD, 2 HR, 3 DT, 3 FM, 1 TB |
+| Quarterfinals | 5 NM, 3 HD, 3 HR, 4 DT, 4 FM, 1 TB |
+| Semifinals    | 5 NM, 3 HD, 3 HR, 4 DT, 4 FM, 1 TB |
+| Finals        | 5 NM, 3 HD, 3 HR, 4 DT, 4 FM, 1 TB |
+| Grand Finals  | 5 NM, 3 HD, 3 HR, 4 DT, 4 FM, 1 TB |
+
+### Qualifiers
+
+- The Qualifier mappool consists of 4 NM, 2 HD, 2 HR, and 2 DT maps.
+- The Qualifier mappool will be played in following order: NM -> DT.
+- NF and Score V2 will be used on every map.
+- The mappool will be played once only.
+- If a player disconnects during a map they can replay it after all other maps have been played and all other players have left the lobby.
+- Teams will be matched against each other in the pattern of _seed 1 vs. seed 32_, _seed 2 vs. seed 31_, etc.
+
 ### Match procedure
 
- -->
+- Teams have a 10-minute grace period to join the lobby after an agreed time. If 10 minutes pass and a team is still not in the lobby, the other team wins the match.
+- Teams are allowed to pick 1 map for warmup, with a maximum length of 3.5 minutes. Warmups have to be in good taste.
+- After warmups both captains in each team will use the `!roll` command to decide pick and ban order. The winner of the roll can decide pick or ban order, and the loser of the roll will decide the remaining order.
+- Players have 120 seconds to pick/ban a map.
+- Double-picking/banning maps is allowed.
