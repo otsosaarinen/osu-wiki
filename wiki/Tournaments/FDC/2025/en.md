@@ -449,7 +449,7 @@ Saturday, 18 January 2025
 | ---------------------: | :---: | :-: | :--------------- | :--------------------------------------------------- |
 | **might miss a match** | **5** |  0  | Schizo rizzzlers | [#1](https://osu.ppy.sh/community/matches/116856976) |
 |   **Karjalanpiirakka** | **5** |  0  | drillaz          | [#1](https://osu.ppy.sh/community/matches/116857752) |
-|       **Suklaapallit** | **5** |  1  | Airline food     | [#1](https://osu.ppy.sh/community/matches/116859311) |
+| **Suklaapallit** | **5** | 1 | Airline food | [#1](https://osu.ppy.sh/community/matches/116859311) |
 |  **ballers will ball** | **5** |  0  | Anttola honor    | [#1](https://osu.ppy.sh/community/matches/116862570) |
 
 Thursday, 16 January 2025
