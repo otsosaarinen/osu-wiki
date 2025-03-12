@@ -2,6 +2,4 @@
 
 Index page for all of the Finnish Duo Cup series.
 
-- [finnish duo cup 2021]()
-- [finnish duo cup 2022]()
 - [Finnish Duo Cup 2025](2025)
