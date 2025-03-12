@@ -83,7 +83,7 @@ The Finnish Duo Cup 2025 was run by various community members.
 | bouquet | ::{ flag=FI }:: **[Aconite](https://osu.ppy.sh/users/15242660)**, ::{ flag=FI }:: [Shylily](https://osu.ppy.sh/users/20770163) |
 | Anttola honor | ::{ flag=FI }:: **[makkara](https://osu.ppy.sh/users/19563871)**, ::{ flag=FI }:: [Naapuri](https://osu.ppy.sh/users/11706246) |
 | drillaz | ::{ flag=FI }:: **[Wokki](https://osu.ppy.sh/users/15532703)**, ::{ flag=PL }:: [HopeRaven](https://osu.ppy.sh/users/8158905) |
-|  Schizo rizzzlers  | ::{ flag=FI }:: **[NoTablet](https://osu.ppy.sh/users/10967148)**, ::{ flag=FI }:: [beea66](https://osu.ppy.sh/users/10708428)          |
+| Schizo rizzzlers | ::{ flag=FI }:: **[NoTablet](https://osu.ppy.sh/users/10967148)**, ::{ flag=FI }:: [beea66](https://osu.ppy.sh/users/10708428) |
 |      No title      | ::{ flag=FI }:: **[sph3re](https://osu.ppy.sh/users/21073465)**, ::{ flag=PL }:: [mouseANDtablet](https://osu.ppy.sh/users/22922042)    |
 |   Mandelbrot set   | ::{ flag=FI }:: **[Jokupoika24](https://osu.ppy.sh/users/17782643)**, ::{ flag=FI }:: [System Sun](https://osu.ppy.sh/users/3163106)    |
 |      Lil bros      | ::{ flag=FI }:: **[ImTK](https://osu.ppy.sh/users/11506206)**, ::{ flag=FI }:: [OG_PannuLappu](https://osu.ppy.sh/users/7295343)        |
