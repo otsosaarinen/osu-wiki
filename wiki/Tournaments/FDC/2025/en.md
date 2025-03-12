@@ -68,7 +68,7 @@ The Finnish Duo Cup 2025 was run by various community members.
 | Melon Boys | ::{ flag=FI }:: **[Isak-](https://osu.ppy.sh/users/8702650)**, ::{ flag=DK }:: [Sobu-](https://osu.ppy.sh/users/13872272) |
 | Gorillamode | ::{ flag=FI }:: **[Marjus](https://osu.ppy.sh/users/10463344)**, ::{ flag=PH }:: [zonelouise](https://osu.ppy.sh/users/1492995) |
 | mä rakastan sua | ::{ flag=FI }:: **[OhLivi](https://osu.ppy.sh/users/10762467)**, ::{ flag=SA }:: [3BDOOO](https://osu.ppy.sh/users/22461441) |
-| might miss a match | ::{ flag=FI }:: **[Tabletti](https://osu.ppy.sh/users/9523661)**, ::{ flag=RO }:: [origin\_](https://osu.ppy.sh/users/15095811)         |
+| might miss a match | ::{ flag=FI }:: **[Tabletti](https://osu.ppy.sh/users/9523661)**, ::{ flag=RO }:: [origin\_](https://osu.ppy.sh/users/15095811) |
 |  Karjalanpiirakka  | ::{ flag=FI }:: **[savilju](https://osu.ppy.sh/users/8059468)**, ::{ flag=FI }:: [apisedo](https://osu.ppy.sh/users/11048151)           |
 | ballers will ball  | ::{ flag=FI }:: **[shdewz](https://osu.ppy.sh/users/10000899)**, ::{ flag=US }:: [LightsOut](https://osu.ppy.sh/users/8581210)          |
 |  Meow & Myouow :3  | ::{ flag=FI }:: **[juujep](https://osu.ppy.sh/users/12031584)**, ::{ flag=GB }:: [HAUNTE](https://osu.ppy.sh/users/7333471)             |
