@@ -75,7 +75,7 @@ The Finnish Duo Cup 2025 was run by various community members.
 | NATION | ::{ flag=FI }:: **[Nev-](https://osu.ppy.sh/users/11836334)**, ::{ flag=FI }:: [nemq](https://osu.ppy.sh/users/11644972) |
 | Galaxy Destroyers | ::{ flag=FI }:: **[Mike Tyson](https://osu.ppy.sh/users/14764185)**, ::{ flag=SG }:: [qstronaut](https://osu.ppy.sh/users/10958852) |
 | Suklaapallit | ::{ flag=RU }:: **[Endura](https://osu.ppy.sh/users/7774197)**, ::{ flag=FI }:: [Juska](https://osu.ppy.sh/users/12931502) |
-|     São Paulo      | ::{ flag=BR }:: **[Kyulke](https://osu.ppy.sh/users/12620242)**, ::{ flag=FI }:: [Mayuri](https://osu.ppy.sh/users/18688473)            |
+| São Paulo | ::{ flag=BR }:: **[Kyulke](https://osu.ppy.sh/users/12620242)**, ::{ flag=FI }:: [Mayuri](https://osu.ppy.sh/users/18688473) |
 |      NO CLUE!      | ::{ flag=FI }:: **[mind blowing](https://osu.ppy.sh/users/22396092)**, ::{ flag=US }:: [EthantrixV2](https://osu.ppy.sh/users/10634348) |
 |    Airline food    | ::{ flag=FI }:: **[Roba](https://osu.ppy.sh/users/5210561)**, ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619)                 |
 |   happy new year   | ::{ flag=FI }:: **[-cyber](https://osu.ppy.sh/users/20132305)**, ::{ flag=AU }:: [5ixty](https://osu.ppy.sh/users/18321104)             |
