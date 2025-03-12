@@ -446,7 +446,7 @@ Sunday, 19 January 2025
 Saturday, 18 January 2025
 
 |                 Team 1 |       |     | Team 2           | Match link                                           |
-| ---------------------: | :---: | :-: | :--------------- | :--------------------------------------------------- |
+| --: | --: | :-: | :-- | :-- |
 | **might miss a match** | **5** | 0 | Schizo rizzzlers | [#1](https://osu.ppy.sh/community/matches/116856976) |
 |   **Karjalanpiirakka** | **5** |  0  | drillaz          | [#1](https://osu.ppy.sh/community/matches/116857752) |
 | **Suklaapallit** | **5** | 1 | Airline food | [#1](https://osu.ppy.sh/community/matches/116859311) |
