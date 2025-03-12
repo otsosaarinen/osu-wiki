@@ -330,7 +330,7 @@ Sunday, 16 February 2025
 Saturday, 15 February 2025
 
 | Team 1 |  |  | Team 2 | Match link |
-| -----------: | :---: | :---: | :---------------- | :--------------------------------------------------- |
+| --: | :-: | :-: | :-- | :-- |
 |  **terence** | **7** |   1   | Melon Boys        | [#1](https://osu.ppy.sh/community/matches/117182605) |
 | Suklaapallit |   0   | **7** | **carrot fields** | [#1](https://osu.ppy.sh/community/matches/117183467) |
 
