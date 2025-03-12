@@ -93,7 +93,7 @@ The Finnish Duo Cup 2025 was run by various community members.
 This competition has come to an end and resulted in the following podium:
 
 | Placing | Team |
-| :--------------------------------------------------------: | :------------------------------------------------------------------------------ |
+| :-: | :-- |
 |   ![Gold crown](/wiki/shared/crown-gold.png "1st place")   | **oddloop** (::{ flag=FI }:: [Kalanluu](), ::{ flag=PL }:: [MALIZSEWSKI]())     |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **bunny party** (::{ flag=FI }:: [Eevert](), ::{ flag=KR }:: [Amamya Kokoro]()) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **terence** (::{ flag=FI }:: [house](), ::{ flag=NO }:: [NINERIK]())            |
