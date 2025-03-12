@@ -200,7 +200,7 @@ This competition has come to an end and resulted in the following podium:
 
   ### Quarterfinals
 
-**[Download the mappack here! (129 Mb)](https://drive.google.com/file/d/1Yh8mBkHj8S3tmDwBv1xdl3CO0xTlYaXm/view?usp=drive_link)**
+**[Download the mappack here! (129 MB)](https://drive.google.com/file/d/1Yh8mBkHj8S3tmDwBv1xdl3CO0xTlYaXm/view?usp=drive_link)**
 
 - No Mod
   1. [1.Kla$ & Czar - Tvoyu mat' (kuyusu) [:urmom:]](https://osu.ppy.sh/b/3774858)
