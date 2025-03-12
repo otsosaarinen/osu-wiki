@@ -98,7 +98,7 @@ This competition has come to an end and resulted in the following podium:
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **bunny party** (::{ flag=FI }:: [Eevert](https://osu.ppy.sh/users/12080544), ::{ flag=KR }:: [Amamya Kokoro](https://osu.ppy.sh/users/2511839) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **terence** (::{ flag=FI }:: [house](https://osu.ppy.sh/users/15242810), ::{ flag=NO }:: [NINERIK](https://osu.ppy.sh/users/10549880) |
 
-![](img/podium.png "finnish duo cup 2025 podium")
+![](img/podium.png "Finnish Duo Cup 2025 podium")
 
 ## Mappools
 
