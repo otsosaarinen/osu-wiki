@@ -168,7 +168,7 @@ This competition has come to an end and resulted in the following podium:
 
   ### Semifinals
 
-**[Download the mappack here! (154 Mb)](https://drive.google.com/file/d/1fO3Ypq_yRMgj3hWq6qrT1XEJZdx6qG6W/view?usp=drive_link)**
+**[Download the mappack here! (154 MB)](https://drive.google.com/file/d/1fO3Ypq_yRMgj3hWq6qrT1XEJZdx6qG6W/view?usp=drive_link)**
 
 - No Mod
   1. [Cranky - Bestrafung (Icekalt) [Folter]](https://osu.ppy.sh/b/3333793)
