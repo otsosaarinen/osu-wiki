@@ -310,7 +310,7 @@ Sunday, 23 February 2025
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **oddloop** | **7** |  2  | bunny party | [#1](https://osu.ppy.sh/community/matches/117279496) |
+| **oddloop** | **7** | 2 | bunny party | [#1](https://osu.ppy.sh/community/matches/117279496) |
 
 Saturday, 22 February 2025
 
