@@ -308,7 +308,7 @@ This competition has come to an end and resulted in the following podium:
 
 Sunday, 23 February 2025
 
-|      Team 1 |       |     | Team 2      | Match link                                           |
+| Team 1 |  |  | Team 2 | Match link |
 | ----------: | :---: | :-: | :---------- | :--------------------------------------------------- |
 | **oddloop** | **7** |  2  | bunny party | [#1](https://osu.ppy.sh/community/matches/117279496) |
 
