@@ -338,7 +338,7 @@ Saturday, 15 February 2025
 
 Sunday, 9 February 2025
 
-|            Team 1 |       |       | Team 2            | Match link                                           |
+| Team 1 |  |  | Team 2 | Match link |
 | ----------------: | :---: | :---: | :---------------- | :--------------------------------------------------- |
 | ballers will ball |   4   | **6** | **carrot fields** | [#1](https://osu.ppy.sh/community/matches/117117181) |
 |      Suklaapallit |   2   | **6** | **bunny party**   | [#1](https://osu.ppy.sh/community/matches/117118038) |
