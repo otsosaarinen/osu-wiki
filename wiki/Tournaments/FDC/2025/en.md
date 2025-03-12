@@ -454,7 +454,7 @@ Saturday, 18 January 2025
 
 Thursday, 16 January 2025
 
-|              Team 1 |       |     | Team 2   | Match link                                           |
+| Team 1 |  |  | Team 2 | Match link |
 | ------------------: | :---: | :-: | :------- | :--------------------------------------------------- |
 | **mä rakastan sua** | **1** | -1  | No title | [#1](https://osu.ppy.sh/community/matches/116834912) |
 
