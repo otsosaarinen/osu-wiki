@@ -285,7 +285,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Qualifiers
 
-**[Download the mappack here! (75 Mb)](https://drive.google.com/file/d/1Yv0xM0hOJhcuVjWSDiAQP_JXOE2DvaS2/view?usp=drive_link)**
+**[Download the mappack here! (75 MB)](https://drive.google.com/file/d/1Yv0xM0hOJhcuVjWSDiAQP_JXOE2DvaS2/view?usp=drive_link)**
 
 - No Mod
   1. [Akatsuki Records - Trance Dance Anarchy (eiri-) [Don't Look Back]](https://osu.ppy.sh/beatmapsets/1124084#osu/2348869)
