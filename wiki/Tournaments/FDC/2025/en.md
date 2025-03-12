@@ -31,7 +31,7 @@ The **Finnish Duo Cup 2025** (**_FDC2025_**) was a 2v2 double-elimination osu!st
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Profile banner |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Profile banner |
 
-![](img/badge.png "finnish duo cup 2025 winner badge")
+![](img/badge.png "Finnish Duo Cup 2025 winner badge")
 
 ## Organisation
 
