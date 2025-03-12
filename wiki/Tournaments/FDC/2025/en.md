@@ -315,7 +315,7 @@ Sunday, 23 February 2025
 Saturday, 22 February 2025
 
 | Team 1 |  |  | Team 2 | Match link |
-| --------------: | :---: | :-: | :------ | :--------------------------------------------------- |
+| --: | :-: | :-: | :-- | :-- |
 | **bunny party** | **7** |  2  | terence | [#1](https://osu.ppy.sh/community/matches/117268443) |
 
 ### Finals
