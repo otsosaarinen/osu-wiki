@@ -232,7 +232,7 @@ This competition has come to an end and resulted in the following podium:
 
   ### Round of 16
 
-**[Download the mappack here! (122 Mb)](https://drive.google.com/file/d/1l_TZ23o-Dv5fr-CyqCHIfIBOCYyQOeU-/view?usp=drive_link)**
+**[Download the mappack here! (122 MB)](https://drive.google.com/file/d/1l_TZ23o-Dv5fr-CyqCHIfIBOCYyQOeU-/view?usp=drive_link)**
 
 - No Mod
   1. [Kito Akari - Desire Again (Amateurre) [Lust]](https://osu.ppy.sh/b/2829777)
