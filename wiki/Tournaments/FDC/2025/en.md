@@ -60,7 +60,7 @@ The Finnish Duo Cup 2025 was run by various community members.
 
 | Team | Members |
 | :-: | :-- |
-|      oddloop       | ::{ flag=FI }:: **[Kalanluu](https://osu.ppy.sh/users/2035254)**, ::{ flag=PL }:: [MALIZEWSKI](https://osu.ppy.sh/users/12408961)       |
+| oddloop | ::{ flag=FI }:: **[Kalanluu](https://osu.ppy.sh/users/2035254)**, ::{ flag=PL }:: [MALIZEWSKI](https://osu.ppy.sh/users/12408961) |
 |   carrot fields    | ::{ flag=FI }:: **[Amasetic](https://osu.ppy.sh/users/11375251)**, ::{ flag=RU }:: [steisha](https://osu.ppy.sh/users/13951894)         |
 |    bunny party     | ::{ flag=FI }:: **[Eevert](https://osu.ppy.sh/users/12080544)**, ::{ flag=KR }:: [Amamya Kokoro](https://osu.ppy.sh/users/2511839)      |
 |      terence       | ::{ flag=FI }:: **[house](https://osu.ppy.sh/users/15242810)**, ::{ flag=NO }:: [NINERIK](https://osu.ppy.sh/users/10549880)            |
