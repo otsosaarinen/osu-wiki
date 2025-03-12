@@ -4,7 +4,7 @@ tags:
   - FDC
 ---
 
-# finnish duo cup 2025
+# Finnish Duo Cup 2025
 
 ![finnish duo cup 2025 logo](img/banner.png)
 
