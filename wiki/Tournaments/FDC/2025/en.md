@@ -79,7 +79,7 @@ The Finnish Duo Cup 2025 was run by various community members.
 | NO CLUE! | ::{ flag=FI }:: **[mind blowing](https://osu.ppy.sh/users/22396092)**, ::{ flag=US }:: [EthantrixV2](https://osu.ppy.sh/users/10634348) |
 | Airline food | ::{ flag=FI }:: **[Roba](https://osu.ppy.sh/users/5210561)**, ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619) |
 | happy new year | ::{ flag=FI }:: **[-cyber](https://osu.ppy.sh/users/20132305)**, ::{ flag=AU }:: [5ixty](https://osu.ppy.sh/users/18321104) |
-|        4444        | ::{ flag=FI }:: **[tkilele](https://osu.ppy.sh/users/9114796)**, ::{ flag=PL }:: [227](https://osu.ppy.sh/users/3741162)                |
+| 4444 | ::{ flag=FI }:: **[tkilele](https://osu.ppy.sh/users/9114796)**, ::{ flag=PL }:: [227](https://osu.ppy.sh/users/3741162) |
 |      bouquet       | ::{ flag=FI }:: **[Aconite](https://osu.ppy.sh/users/15242660)**, ::{ flag=FI }:: [Shylily](https://osu.ppy.sh/users/20770163)          |
 |   Anttola honor    | ::{ flag=FI }:: **[makkara](https://osu.ppy.sh/users/19563871)**, ::{ flag=FI }:: [Naapuri](https://osu.ppy.sh/users/11706246)          |
 |      drillaz       | ::{ flag=FI }:: **[Wokki](https://osu.ppy.sh/users/15532703)**, ::{ flag=PL }:: [HopeRaven](https://osu.ppy.sh/users/8158905)           |
