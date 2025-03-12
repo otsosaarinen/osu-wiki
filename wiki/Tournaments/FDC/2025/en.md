@@ -306,17 +306,133 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
+Sunday, 23 February 2025
+
+|      Team 1 |       |     | Team 2      | Match link                                           |
+| ----------: | :---: | :-: | :---------- | :--------------------------------------------------- |
+| **oddloop** | **7** |  2  | bunny party | [#1](https://osu.ppy.sh/community/matches/117279496) |
+
+Saturday, 22 February 2025
+
+|          Team 1 |       |     | Team 2  | Match link                                           |
+| --------------: | :---: | :-: | :------ | :--------------------------------------------------- |
+| **bunny party** | **7** |  2  | terence | [#1](https://osu.ppy.sh/community/matches/117268443) |
+
 ### Finals
+
+Sunday, 16 February 2025
+
+|        Team 1 |       |       | Team 2      | Match link                                           |
+| ------------: | :---: | :---: | :---------- | :--------------------------------------------------- |
+| carrot fields |   2   | **7** | **terence** | [#1](https://osu.ppy.sh/community/matches/117201075) |
+|   **oddloop** | **7** |   0   | bunny party | [#1](https://osu.ppy.sh/community/matches/117201047) |
+
+Saturday, 15 February 2025
+
+|       Team 1 |       |       | Team 2            | Match link                                           |
+| -----------: | :---: | :---: | :---------------- | :--------------------------------------------------- |
+|  **terence** | **7** |   1   | Melon Boys        | [#1](https://osu.ppy.sh/community/matches/117182605) |
+| Suklaapallit |   0   | **7** | **carrot fields** | [#1](https://osu.ppy.sh/community/matches/117183467) |
 
 ### Semifinals
 
+Sunday, 9 February 2025
+
+|            Team 1 |       |       | Team 2            | Match link                                           |
+| ----------------: | :---: | :---: | :---------------- | :--------------------------------------------------- |
+| ballers will ball |   4   | **6** | **carrot fields** | [#1](https://osu.ppy.sh/community/matches/117117181) |
+|      Suklaapallit |   2   | **6** | **bunny party**   | [#1](https://osu.ppy.sh/community/matches/117118038) |
+|    **Melon Boys** | **6** |   3   | NO CLUE!          | [#1](https://osu.ppy.sh/community/matches/117120290) |
+
+Saturday, 8 February 2025
+
+|           Team 1 |       |       | Team 2                | Match link                                           |
+| ---------------: | :---: | :---: | :-------------------- | :--------------------------------------------------- |
+|  mä rakastan sua |   1   | **6** | **carrot fields**     | [#1](https://osu.ppy.sh/community/matches/117101452) |
+|   **Melon Boys** | **6** |   2   | NATION                | [#1](https://osu.ppy.sh/community/matches/117103467) |
+| Karjalanpiirakka |   1   | **6** | **NO CLUE!**          | [#1](https://osu.ppy.sh/community/matches/117104340) |
+|    skibidi vessa |  -1   | **0** | **ballers will ball** | _win by default_                                     |
+
+Wednesday, 5 February 2025
+
+|      Team 1 |       |     | Team 2  | Match link                                           |
+| ----------: | :---: | :-: | :------ | :--------------------------------------------------- |
+| **oddloop** | **6** |  1  | terence | [#1](https://osu.ppy.sh/community/matches/117069912) |
+
 ### Quarterfinals
+
+Monday, 3 February 2025
+
+|           Team 1 |       |       | Team 2            | Match link                                           |
+| ---------------: | :---: | :---: | :---------------- | :--------------------------------------------------- |
+|      **oddloop** | **6** |   1   | mä rakastan sua   | [#1](https://osu.ppy.sh/community/matches/117047568) |
+|      Gorillamode |   1   | **6** | **carrot fields** | [#1](https://osu.ppy.sh/community/matches/117048430) |
+| **Suklaapallit** | **6** |   3   | Karjalanpiirakka  | [#1](https://osu.ppy.sh/community/matches/117048947) |
+
+Sunday, 2 February 2025
+
+|                Team 1 |       |       | Team 2            | Match link                                           |
+| --------------------: | :---: | :---: | :---------------- | :--------------------------------------------------- |
+|       **bunny party** | **6** |   3   | Melon boys        | [#1](https://osu.ppy.sh/community/matches/117036745) |
+| **ballers will ball** | **6** |   3   | Galaxy Destroyers | [#1](https://osu.ppy.sh/community/matches/117037811) |
+|    might miss a match |   5   | **6** | **NO CLUE!**      | [#1](https://osu.ppy.sh/community/matches/117038110) |
+|           **terence** | **6** |   1   | skibidi vessa     | [#1](https://osu.ppy.sh/community/matches/117038819) |
+|          Airline food |   0   | **6** | **NATION**        | [#1](https://osu.ppy.sh/community/matches/117041154) |
+
+Saturday, 1 February 2025
+
+|                 Team 1 |       |       | Team 2           | Match link                                           |
+| ---------------------: | :---: | :---: | :--------------- | :--------------------------------------------------- |
+|        **Gorillamode** | **6** |   1   | 4444             | [#1](https://osu.ppy.sh/community/matches/117021057) |
+|  **Galaxy Destroyers** | **0** |  -1   | Schizo rizzzlers | _win by default_                                     |
+| **might miss a match** | **6** |   2   | happy new year   | [#1](https://osu.ppy.sh/community/matches/117021297) |
+|       Meow & Myouow :3 |  -1   | **0** | **Airline food** | _win by default_                                     |
+|           **NO CLUE!** | **6** |   0   | Anttola honor    | [#1](https://osu.ppy.sh/community/matches/117025857) |
+|  **ballers will ball** | **6** |   4   | São Paulo        | [#1](https://osu.ppy.sh/community/matches/117027027) |
+
+Friday, 31 January 2025
+
+|     Team 1 |       |     | Team 2         | Match link                                           |
+| ---------: | :---: | :-: | :------------- | :--------------------------------------------------- |
+| **NATION** | **6** |  0  | Mandelbrot set | [#1](https://osu.ppy.sh/community/matches/117009120) |
+
+Tuesday, 28 January 2025
+
+|            Team 1 |       |     | Team 2  | Match link                                           |
+| ----------------: | :---: | :-: | :------ | :--------------------------------------------------- |
+| **carrot fields** | **6** |  0  | bouquet | [#1](https://osu.ppy.sh/community/matches/116979149) |
 
 ### Round of 16
 
+Monday, 27 January 2025
+
+|              Team 1 |       |     | Team 2             | Match link                                           |
+| ------------------: | :---: | :-: | :----------------- | :--------------------------------------------------- |
+| **mä rakastan sua** | **0** | -1  | might miss a match | _win by default_                                     |
+|   **skibidi vessa** | **5** |  2  | Meow & Myouow :3   | [#1](https://osu.ppy.sh/community/matches/116969160) |
+
+Sunday, 26 January 2025
+
+|         Team 1 |       |       | Team 2               | Match link                                           |
+| -------------: | :---: | :---: | :------------------- | :--------------------------------------------------- |
+|    Gorillamode |   2   | **5** | **Karjalanpiirakka** | [#1](https://osu.ppy.sh/community/matches/116954236) |
+|  carrot fields |   4   | **5** | **Suklaapallit**     | [#1](https://osu.ppy.sh/community/matches/116956998) |
+| **Melon boys** | **5** |   2   | ballers will ball    | [#1](https://osu.ppy.sh/community/matches/116958610) |
+
+Saturday, 25 January 2025
+
+|             Team 1 |       |       | Team 2               | Match link                                           |
+| -----------------: | :---: | :---: | :------------------- | :--------------------------------------------------- |
+|        **oddloop** | **5** |   1   | NO CLUE!             | [#1](https://osu.ppy.sh/community/matches/116942008) |
+|    **bunny party** | **5** |   1   | Galaxy Destroyers    | [#1](https://osu.ppy.sh/community/matches/116942513) |
+| **Mandelbrot set** | **5** |   0   | drillaz              | [#1](https://osu.ppy.sh/community/matches/116942826) |
+|           No title |   2   | **5** | **Schizo rizzzlers** | [#1](https://osu.ppy.sh/community/matches/116943225) |
+|           Lil bros |   0   | **5** | **Anttola honor**    | [#1](https://osu.ppy.sh/community/matches/116943666) |
+|        **terence** | **5** |   1   | NATION               | [#1](https://osu.ppy.sh/community/matches/116943668) |
+
 ### Round of 32
 
-Day, date: Sunday, 19 January 2025
+Sunday, 19 January 2025
 
 |                Team 1 |       |       | Team 2         | Match link                                           |
 | --------------------: | :---: | :---: | :------------- | :--------------------------------------------------- |
@@ -327,16 +443,16 @@ Day, date: Sunday, 19 January 2025
 |  **Meow & Myouow :3** | **0** |  -1   | bouquet        | _win by default_                                     |
 |             São Paulo |   2   | **5** | **NO CLUE!**   | [#1](https://osu.ppy.sh/community/matches/116873391) |
 
-Day, date: Saturday, 18 January 2025
+Saturday, 18 January 2025
 
 |                 Team 1 |       |     | Team 2           | Match link                                           |
 | ---------------------: | :---: | :-: | :--------------- | :--------------------------------------------------- |
 | **might miss a match** | **5** |  0  | Schizo rizzzlers | [#1](https://osu.ppy.sh/community/matches/116856976) |
-|   **Karjalanpiirakka** | \*\*5 |  0  | drillaz          | [#1](https://osu.ppy.sh/community/matches/116857752) |
+|   **Karjalanpiirakka** | **5** |  0  | drillaz          | [#1](https://osu.ppy.sh/community/matches/116857752) |
 |       **Suklaapallit** | **5** |  1  | Airline food     | [#1](https://osu.ppy.sh/community/matches/116859311) |
 |  **ballers will ball** | **5** |  0  | Anttola honor    | [#1](https://osu.ppy.sh/community/matches/116862570) |
 
-Day, date: Thursday, 16 January 2025
+Thursday, 16 January 2025
 
 |              Team 1 |       |     | Team 2   | Match link                                           |
 | ------------------: | :---: | :-: | :------- | :--------------------------------------------------- |
