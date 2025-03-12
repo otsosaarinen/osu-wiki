@@ -259,7 +259,7 @@ This competition has come to an end and resulted in the following podium:
 
   ### Round of 32
 
-**[Download the mappack here! (116 Mb)](https://drive.google.com/file/d/1BmSgVULdQjB1eXW3p3BLdfI76Rz23uqn/view?usp=drive_link)**
+**[Download the mappack here! (116 MB)](https://drive.google.com/file/d/1BmSgVULdQjB1eXW3p3BLdfI76Rz23uqn/view?usp=drive_link)**
 
 - No Mod
   1. [Naoki Hashimoto - Big Blast Sonic (fooders) [Overdrive]](https://osu.ppy.sh/b/4070151)
