@@ -136,7 +136,7 @@ This competition has come to an end and resulted in the following podium:
 
   ### Finals
 
-**[Download the mappack here! (166 Mb)](https://drive.google.com/file/d/1dUFMIKkF7kScuEhEZoKi5vd3XjN_BjYo/view?usp=drive_link)**
+**[Download the mappack here! (166 MB)](https://drive.google.com/file/d/1dUFMIKkF7kScuEhEZoKi5vd3XjN_BjYo/view?usp=drive_link)**
 
 - No Mod
   1. [[Kyoro] - Mochio- (Snow Note) [Extreme]](https://osu.ppy.sh/b/3076104)
