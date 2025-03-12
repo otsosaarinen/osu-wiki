@@ -69,7 +69,7 @@ The Finnish Duo Cup 2025 was run by various community members.
 | Gorillamode | ::{ flag=FI }:: **[Marjus](https://osu.ppy.sh/users/10463344)**, ::{ flag=PH }:: [zonelouise](https://osu.ppy.sh/users/1492995) |
 | mä rakastan sua | ::{ flag=FI }:: **[OhLivi](https://osu.ppy.sh/users/10762467)**, ::{ flag=SA }:: [3BDOOO](https://osu.ppy.sh/users/22461441) |
 | might miss a match | ::{ flag=FI }:: **[Tabletti](https://osu.ppy.sh/users/9523661)**, ::{ flag=RO }:: [origin\_](https://osu.ppy.sh/users/15095811) |
-|  Karjalanpiirakka  | ::{ flag=FI }:: **[savilju](https://osu.ppy.sh/users/8059468)**, ::{ flag=FI }:: [apisedo](https://osu.ppy.sh/users/11048151)           |
+| Karjalanpiirakka | ::{ flag=FI }:: **[savilju](https://osu.ppy.sh/users/8059468)**, ::{ flag=FI }:: [apisedo](https://osu.ppy.sh/users/11048151) |
 | ballers will ball  | ::{ flag=FI }:: **[shdewz](https://osu.ppy.sh/users/10000899)**, ::{ flag=US }:: [LightsOut](https://osu.ppy.sh/users/8581210)          |
 |  Meow & Myouow :3  | ::{ flag=FI }:: **[juujep](https://osu.ppy.sh/users/12031584)**, ::{ flag=GB }:: [HAUNTE](https://osu.ppy.sh/users/7333471)             |
 |       NATION       | ::{ flag=FI }:: **[Nev-](https://osu.ppy.sh/users/11836334)**, ::{ flag=FI }:: [nemq](https://osu.ppy.sh/users/11644972)                |
