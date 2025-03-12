@@ -8,7 +8,7 @@ tags:
 
 ![Finnish Duo Cup 2025 logo](img/banner.png)
 
-The **finnish duo cup 2025** (**_FDC2025_**) is a 2v2 double-elimination osu!standard tournament hosted by ::{ flag=FI }:: [Aetherian](https://osu.ppy.sh/users/6263040). The tournament requires at least one of the players in each team to be from ::{ flag=FI }:: Finland or ::{ flag=AX }:: Åland. It is the third instalment of the finnish duo cup.
+The **Finnish Duo Cup 2025** (**_FDC2025_**) was a 2v2 double-elimination osu!standard tournament hosted by ::{ flag=FI }:: [Aetherian](https://osu.ppy.sh/users/6263040). The tournament required at least one of the players in each team to be from ::{ flag=FI }:: Finland or ::{ flag=AX }:: Åland. It was the third instalment of the Finnish Duo Cup.
 
 ## Tournament schedule
 
