@@ -1,6 +1,6 @@
 # Finnish Duo Cup
 
-Index page for all of the finnish duo cup series.
+Index page for all of the Finnish Duo Cup series.
 
 - [finnish duo cup 2021]()
 - [finnish duo cup 2022]()
