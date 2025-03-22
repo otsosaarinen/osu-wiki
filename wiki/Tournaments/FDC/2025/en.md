@@ -8,7 +8,7 @@ tags:
 
 ![Finnish Duo Cup 2025 logo](img/banner.png)
 
-The **Finnish Duo Cup 2025** (**_FDC2025_**) was a 2v2 double-elimination osu!standard tournament hosted by ::{ flag=FI }:: [Aetherian](https://osu.ppy.sh/users/6263040). The tournament required at least one of the players in each team to be from ::{ flag=FI }:: Finland or ::{ flag=AX }:: Åland. It was the third instalment of the Finnish Duo Cup.
+The **Finnish Duo Cup 2025** (**FDC2025**) was a 2v2 double-elimination osu!standard tournament hosted by ::{ flag=FI }:: [Aetherian](https://osu.ppy.sh/users/6263040). The tournament required at least one of the players in each team to be from ::{ flag=FI }:: Finland or ::{ flag=AX }:: Åland. It was the third instalment of the Finnish Duo Cup.
 
 ## Tournament schedule
 
@@ -185,7 +185,7 @@ This competition has come to an end and resulted in the following podium:
 - Double Time
   1. [Toyosaki Aki - Diamond (Fycho) [Insane]](https://osu.ppy.sh/beatmapsets/111760#osu/290581)
   2. [cygnus - Violet SunLight (Sanch-KK) [Insane]](https://osu.ppy.sh/beatmapsets/2152760#osu/4545563)
-  3. [cosMo@BousouP - 25-ji 76-pun Hatsu <<Ryouiki Gai>> Iki Saishuu Ressha (Sagon) [Insane]](https://osu.ppy.sh/beatmapsets/1807738#osu/3741963)
+  3. [cosMo@BousouP - 25-ji 76-pun Hatsu \<\<Ryouiki Gai\>\> Iki Saishuu Ressha (Sagon) [Insane]](https://osu.ppy.sh/beatmapsets/1807738#osu/3741963)
   4. [Faun - Tanz mit mir (kwk) [Cute Russian Song]](https://osu.ppy.sh/beatmapsets/802989#osu/1685542)
 - Free Mod
   1. [Falcom Sound Team jdk - Don't be Defeated by a Friend! (Deca) [Lionheart]](https://osu.ppy.sh/beatmapsets/1557286#osu/3181298)
@@ -349,7 +349,7 @@ Saturday, 8 February 2025
 | mä rakastan sua | 1 | **6** | **carrot fields** | [#1](https://osu.ppy.sh/community/matches/117101452) |
 | **Melon Boys** | **6** | 2 | NATION | [#1](https://osu.ppy.sh/community/matches/117103467) |
 | Karjalanpiirakka | 1 | **6** | **NO CLUE!** | [#1](https://osu.ppy.sh/community/matches/117104340) |
-| skibidi vessa | -1 | **0** | **ballers will ball** | _win by default_ |
+| skibidi vessa | -1 | **0** | **ballers will ball** | *win by default* |
 
 Wednesday, 5 February 2025
 
@@ -382,9 +382,9 @@ Saturday, 1 February 2025
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Gorillamode** | **6** | 1 | 4444 | [#1](https://osu.ppy.sh/community/matches/117021057) |
-| **Galaxy Destroyers** | **0** | -1 | Schizo rizzzlers | _win by default_ |
+| **Galaxy Destroyers** | **0** | -1 | Schizo rizzzlers | *win by default* |
 | **might miss a match** | **6** | 2 | happy new year | [#1](https://osu.ppy.sh/community/matches/117021297) |
-| Meow & Myouow :3 | -1 | **0** | **Airline food** | _win by default_ |
+| Meow & Myouow :3 | -1 | **0** | **Airline food** | *win by default* |
 | **NO CLUE!** | **6** | 0 | Anttola honor | [#1](https://osu.ppy.sh/community/matches/117025857) |
 | **ballers will ball** | **6** | 4 | São Paulo | [#1](https://osu.ppy.sh/community/matches/117027027) |
 
@@ -406,7 +406,7 @@ Monday, 27 January 2025
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **mä rakastan sua** | **0** | -1 | might miss a match | _win by default_ |
+| **mä rakastan sua** | **0** | -1 | might miss a match | *win by default* |
 | **skibidi vessa** | **5** | 2 | Meow & Myouow :3 | [#1](https://osu.ppy.sh/community/matches/116969160) |
 
 Sunday, 26 January 2025
@@ -438,7 +438,7 @@ Sunday, 19 January 2025
 | **Gorillamode** | **5** | 3 | Mandelbrot set | [#1](https://osu.ppy.sh/community/matches/116870277) |
 | **Melon boys** | **5** | 0 | Lil bros | [#1](https://osu.ppy.sh/community/matches/116871232) |
 | **NATION** | **5** | 2 | 4444 | [#1](https://osu.ppy.sh/community/matches/116871992) |
-| **Meow & Myouow :3** | **0** | -1 | bouquet | _win by default_ |
+| **Meow & Myouow :3** | **0** | -1 | bouquet | *win by default* |
 | São Paulo | 2 | **5** | **NO CLUE!** | [#1](https://osu.ppy.sh/community/matches/116873391) |
 
 Saturday, 18 January 2025
@@ -495,7 +495,7 @@ Thursday, 16 January 2025
 - NF and Score V2 will be used on every map.
 - The mappool will be played once only.
 - If a player disconnects during a map they can replay it after all other maps have been played and all other players have left the lobby.
-- Teams will be matched against each other in the pattern of _seed 1 vs. seed 32_, _seed 2 vs. seed 31_, etc.
+- Teams will be matched against each other in the pattern of *seed 1 vs. seed 32*, *seed 2 vs. seed 31*, etc.
 
 ### Match procedure
 
