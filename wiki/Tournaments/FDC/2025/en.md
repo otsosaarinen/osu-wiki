@@ -8,7 +8,7 @@ tags:
 
 ![Finnish Duo Cup 2025 logo](img/banner.png)
 
-The **Finnish Duo Cup 2025** (**FDC2025**) was a 2v2 double-elimination osu!standard tournament hosted by ::{ flag=FI }:: [Aetherian](https://osu.ppy.sh/users/6263040). The tournament required at least one of the players in each team to be from ::{ flag=FI }:: Finland or ::{ flag=AX }:: Åland. It was the third instalment of the Finnish Duo Cup.
+The **Finnish Duo Cup 2025** (**FDC2025**) was a 2v2 double-elimination osu! tournament hosted by ::{ flag=FI }:: [Aetherian](https://osu.ppy.sh/users/6263040). The tournament required at least one of the players in each team to be from ::{ flag=FI }:: Finland or ::{ flag=AX }:: Åland. It was the third instalment of the Finnish Duo Cup.
 
 ## Tournament schedule
 
@@ -129,7 +129,6 @@ This competition has come to an end and resulted in the following podium:
   3. [Down - DeviousPanda (Down) [Extra]](https://osu.ppy.sh/beatmapsets/1789325#osu/3666374)
   4. [wowaka - World's End Dancehall (Deppyforce) [Yokes' Expert]](https://osu.ppy.sh/beatmapsets/1737165#osu/3727749)
 - Tiebreaker
-
   1. **[Ludicin - Echoes of Memoria (hehe) [Hypermnesia]](https://osu.ppy.sh/beatmapsets/2214238#osu/4691422)**
 
   ### Finals
@@ -161,10 +160,9 @@ This competition has come to an end and resulted in the following podium:
   3. [Rin - Kishinjou set 03 ~ Humans and Youkai Traversing the Canal (yaspo) [hasplasho's Human x Youkai CoLunatic]](https://osu.ppy.sh/beatmapsets/1799358#osu/3688644)
   4. [dandeless - micro.wav (yaspo) [USA Tryouts]](https://osu.ppy.sh/beatmapsets/1499766#osu/3198204)
 - Tiebreaker
-
   1. **[HyuN - Duplicity Shade (feat. Sennzai) (Down) [Salvation]](https://osu.ppy.sh/beatmapsets/1708718#osu/3491545)**
 
-  ### Semifinals
+### Semifinals
 
 **[Download the mappack here! (154 MB)](https://drive.google.com/file/d/1fO3Ypq_yRMgj3hWq6qrT1XEJZdx6qG6W/view?usp=drive_link)**
 
@@ -193,10 +191,9 @@ This competition has come to an end and resulted in the following podium:
   3. [96neko - Buriki no Dance (CallieCube) [Tango Sugar Free]](https://osu.ppy.sh/beatmapsets/1332410#osu/4228080)
   4. [beatMARIO - Night of Knights (Anxient) [TRUE 2009 STAGE]](https://osu.ppy.sh/beatmapsets/530702#osu/1125657)
 - Tiebreaker
-
   1. **[Asatsumei ft. L4hee - Tenshi no Kikyou (iljaaz) [Spectrum]](https://osu.ppy.sh/beatmapsets/2278590#osu/4856643)**
 
-  ### Quarterfinals
+### Quarterfinals
 
 **[Download the mappack here! (129 MB)](https://drive.google.com/file/d/1Yh8mBkHj8S3tmDwBv1xdl3CO0xTlYaXm/view?usp=drive_link)**
 
@@ -225,10 +222,9 @@ This competition has come to an end and resulted in the following podium:
   3. [Scott Brown - Go Berzerk (Luscent) [Black Another]](https://osu.ppy.sh/beatmapsets/1596950#osu/3261566)
   4. [Helblinde - Grief & Malice (Okoratu) [Local's Expert]](https://osu.ppy.sh/beatmapsets/1846720#osu/3994108)
 - Tiebreaker
-
   1. **[ToYou & DJ Raisei - ADHD (Down) [KCSC GRAND FINAL]](https://osu.ppy.sh/beatmapsets/1948527#osu/4033196)**
 
-  ### Round of 16
+### Round of 16
 
 **[Download the mappack here! (122 MB)](https://drive.google.com/file/d/1l_TZ23o-Dv5fr-CyqCHIfIBOCYyQOeU-/view?usp=drive_link)**
 
@@ -252,10 +248,9 @@ This competition has come to an end and resulted in the following podium:
   2. [xi - Heavenly Blast (2022 Remaster) (Bloxi) [ninore's Another]](https://osu.ppy.sh/beatmapsets/1987556#osu/4130247)
   3. [Aiko Kayo - Hitomi no Naka no Meikyuu (Reiji Maigo) [Insane+]](https://osu.ppy.sh/beatmapsets/1933416#osu/3994999)
 - Tiebreaker
-
   1. **[yanaginagi - Outsider (apoq) [Eternity]](https://osu.ppy.sh/beatmapsets/1368755#osu/2844390)**
 
-  ### Round of 32
+### Round of 32
 
 **[Download the mappack here! (116 MB)](https://drive.google.com/file/d/1BmSgVULdQjB1eXW3p3BLdfI76Rz23uqn/view?usp=drive_link)**
 
@@ -463,9 +458,9 @@ Thursday, 16 January 2025
 - This tournament is a 2v2 double-elimination osu! tournament.
 - Each team consists of 2 players.
 - At least 1 player from each team has to be from ::{ flag=FI }:: Finland or ::{ flag=AX }:: Åland.
-- Each team's total pp sum is capped at is 30,000pp, with maximum of 17,500pp per player.
+- Each team's total performance point sum is capped at is 30,000 pp, with maximum of 17,500 pp per player.
 - Tournament uses custom `bws pp` formula for calculating accurate pp value for each player: `bws pp = pp ^ (1.001 ^ (badge_count ^2))`.
-- Each player can only contribute 17,500pp towards their team's pp sum meaning that if player has more than 17,500pp, only 17,500pp is counted towards the sum.
+- Each player can only contribute 17,500 pp towards their team's pp sum, meaning that if player has more than 17,500 pp, only 17,500 pp is counted towards the sum.
 - All matches will use Score V2 and NF will be enforced on every map.
 - All players have to treat staff members and all other players with a high level of respect. Any kind of mistreatment may result in being banned from the tournament.
 - This is an open rank tournament.
@@ -494,7 +489,7 @@ Thursday, 16 January 2025
 - The Qualifier mappool will be played in following order: NM -> DT.
 - NF and Score V2 will be used on every map.
 - The mappool will be played once only.
-- If a player disconnects during a map they can replay it after all other maps have been played and all other players have left the lobby.
+- If a player disconnects during a map, they can replay it after all other maps have been played and all other players have left the lobby.
 - Teams will be matched against each other in the pattern of *seed 1 vs. seed 32*, *seed 2 vs. seed 31*, etc.
 
 ### Match procedure
