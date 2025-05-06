@@ -94,9 +94,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **oddloop** (::{ flag=FI }:: [Kalanluu](https://osu.ppy.sh/users/2035254), ::{ flag=PL }:: [MALISZEWSKI](https://osu.ppy.sh/users/12408961) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **bunny party** (::{ flag=FI }:: [Eevert](https://osu.ppy.sh/users/12080544), ::{ flag=KR }:: [Amamya Kokoro](https://osu.ppy.sh/users/2511839) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **terence** (::{ flag=FI }:: [house](https://osu.ppy.sh/users/15242810), ::{ flag=NO }:: [NINERIK](https://osu.ppy.sh/users/10549880) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **oddloop** (::{ flag=FI }:: [Kalanluu](https://osu.ppy.sh/users/2035254), ::{ flag=PL }:: [MALISZEWSKI](https://osu.ppy.sh/users/12408961)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **bunny party** (::{ flag=FI }:: [Eevert](https://osu.ppy.sh/users/12080544), ::{ flag=KR }:: [Amamya Kokoro](https://osu.ppy.sh/users/2511839)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **terence** (::{ flag=FI }:: [house](https://osu.ppy.sh/users/15242810), ::{ flag=NO }:: [NINERIK](https://osu.ppy.sh/users/10549880)) |
 
 ## Mappools
 
@@ -131,7 +131,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   1. **[Ludicin - Echoes of Memoria (hehe) [Hypermnesia]](https://osu.ppy.sh/beatmapsets/2214238#osu/4691422)**
 
-  ### Finals
+### Finals
 
 **[Download the mappack here! (166 MB)](https://drive.google.com/file/d/1dUFMIKkF7kScuEhEZoKi5vd3XjN_BjYo/view?usp=drive_link)**
 
